@@ -1,1 +1,1 @@
-# -kolenie
+# školenie
