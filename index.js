@@ -111,7 +111,9 @@ randomArray.map(item => {
 })
 console.log("Final array : ", finalArray);
 
+
 // -------- Array of objects show ---------- //
+
 
 let itemList = [
   { id: 123, title: "Ing", name: "Franta", wage: 1500 },
