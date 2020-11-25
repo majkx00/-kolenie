@@ -125,6 +125,8 @@ for (let person of itemList) {
   console.log("Mena : ", person.name);
 }
 
+//GHHAHAHAHA
+
 // Filter persons with specific conditions
 let goodPersons = [];
 itemList.filter(person => {
